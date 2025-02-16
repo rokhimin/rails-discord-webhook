@@ -1,24 +1,15 @@
 # README
+### Rails Discord Webhook
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### lib Version 
+Ruby : 3.3.0
 
-Things you may want to cover:
+Rails : 8.0.1
 
-* Ruby version
+Discordrb :  3.5
 
-* System dependencies
+Bulma : 1.0.2
 
-* Configuration
+#
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](https://s3.gifyu.com/images/bSsQ9.png)
