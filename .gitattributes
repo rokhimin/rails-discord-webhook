@@ -5,3 +5,7 @@
 vendor/* linguist-vendored
 config/credentials/*.yml.enc diff=rails_credentials
 config/credentials.yml.enc diff=rails_credentials
+*.erb linguist-language=Ruby
+*.html linguist-language=Ruby
+*.css linguist-language=Ruby
+*.scss linguist-language=Ruby
